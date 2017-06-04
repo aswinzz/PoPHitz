@@ -2,7 +2,7 @@
   "years": [{
     "title" : "Top 5 Songs Of 2013",
     "year_number" : "2013",
-    "main_characters" : ["Daft Punk - Get Lucky", "Calvin Harris - I Need Your Love ft. Ellie Goulding ", "Blurred Lines- Robin Thicke", "Lorde - Royals", "MACKLEMORE & RYAN LEWIS - THRIFT SHOP"],
+    "main_characters" : ["Daft Punk - Get Lucky","https://www.youtube.com/watch?v=h5EofwRzit0", "Calvin Harris - I Need Your Love ft. Ellie Goulding ","https://www.youtube.com/watch?v=AtKZKl7Bgu0", "Blurred Lines- Robin Thicke","https://www.youtube.com/watch?v=yyDUC1LUXSU", "Lorde - Royals","https://www.youtube.com/watch?v=nlcIKh6sBtc", "MACKLEMORE & RYAN LEWIS - THRIFT SHOP","https://www.youtube.com/watch?v=QK8mJJJvaes"],
     "poster" : "2013a.jpg",
     "hero_image" : "2013.jpg"
   },
@@ -10,7 +10,7 @@
   {
     "title" : "Top 5 Songs Of 2014",
     "year_number" : "2014",
-    "main_characters" : ["Iggy Azalea - Fancy", "Jessie J, Ariana Grande, Nicki Minaj - Bang Bang", "Coldplay - A Sky Full Of Stars", "Iggy Azalea - Black Widow", "The Fault In Our Stars - Charli XCX - Boom Clap"],
+    "main_characters" : ["Iggy Azalea - Fancy","https://www.youtube.com/watch?v=O-zpOMYRi0w", "Jessie J, Ariana Grande, Nicki Minaj - Bang Bang","https://www.youtube.com/watch?v=0HDdjwpPM3Y", "Coldplay - A Sky Full Of Stars","https://www.youtube.com/watch?v=VPRjCeoBqrI", "Iggy Azalea - Black Widow","https://www.youtube.com/watch?v=u3u22OYqFGo", "The Fault In Our Stars - Charli XCX - Boom Clap","https://www.youtube.com/watch?v=AOPMlIIg_38"],
     "poster" : "2014a.png",
     "hero_image" : "2014.jpg"
   },
@@ -18,7 +18,7 @@
   {
     "title" : "Top 5 Songs Of 2015",
     "year_number" : "2015",
-    "main_characters" : ["Adele - Hello", "Skrillex and Diplo - Where Are Ü Now", "Drake - Hotline Bling", "Justin Bieber - Sorry", "Rachel Platten - Fight Song"],
+    "main_characters" : ["Adele - Hello","https://www.youtube.com/watch?v=YQHsXMglC9A", "Skrillex and Diplo - Where Are Ü Now","https://www.youtube.com/watch?v=nntGTK2Fhb0", "Drake - Hotline Bling", "https://www.youtube.com/watch?v=uxpDa-c-4Mc", "Rachel Platten - Fight Song","https://www.youtube.com/watch?v=xo1VInw-SKc"],
     "poster" : "2015a.jpg",
     "hero_image" : "2015.jpg"
   },
@@ -26,7 +26,7 @@
   {
     "title" : "Top 5 Songs Of 2016",
     "year_number" : "2016",
-    "main_characters" : ["The Chainsmokers - Closer", "Clean Bandit - Rockabye ft. Sean Paul & Anne-Marie", "Bruno Mars - That's What I Like", "Calvin Harris - This Is What You Came For ", "Shawn Mendes - Treat You Better"],
+    "main_characters" : ["The Chainsmokers - Closer","https://www.youtube.com/watch?v=0zGcUoRlhmw", "Clean Bandit - Rockabye ft. Sean Paul & Anne-Marie","https://www.youtube.com/watch?v=papuvlVeZg8", "Bruno Mars - That's What I Like","https://www.youtube.com/watch?v=PMivT7MJ41M", "Calvin Harris - This Is What You Came For ","https://www.youtube.com/watch?v=kOkQ4T5WO9E", "Shawn Mendes - Treat You Better","https://www.youtube.com/watch?v=lY2yjAdbvdQ"],
     "poster" : "2016a.jpg",
     "hero_image" : "2016.jpg"
   },
@@ -34,7 +34,7 @@
   {
     "title" : "Top 5 Songs Of 2017",
     "year_number" : "2017",
-    "main_characters" : ["Ed Sheeran - Shape of You", "Luis Fonsi - Despacito ft. Daddy Yankee", "Kygo, Selena Gomez - It Ain't Me", "Zedd, Alessia Cara - Stay", "The Chainsmokers & Coldplay - Something Just Like This"],
+    "main_characters" : ["Ed Sheeran - Shape of You","https://www.youtube.com/watch?v=JGwWNGJdvx8", "Luis Fonsi - Despacito ft. Daddy Yankee","https://www.youtube.com/watch?v=kJQP7kiw5Fk", "Kygo, Selena Gomez - It Ain't Me","https://www.youtube.com/watch?v=u3VTKvdAuIY", "Zedd, Alessia Cara - Stay","https://www.youtube.com/watch?v=h--P8HzYZ74", "The Chainsmokers & Coldplay - Something Just Like This","https://www.youtube.com/watch?v=FM7MFYoylVs"],
     "poster" : "2017a.jpg",
     "hero_image" : "2017.png"
   }]
