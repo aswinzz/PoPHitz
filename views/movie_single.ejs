@@ -24,8 +24,8 @@
   		<div class="main-characters">
   			<h2 class="movie-header">List Of Top 5 Songs Of <%= year_number %></h2>
   			<ol>
-  			<% for (var i = 0; i < main_characters.length; i+=2) { %>
-  				<li><a href="<%= main_characters[i+1] %>"><%= main_characters[i] %></a></li><br>
+  			<% for (var i = 0; i < main_characters.length; i+=3) { %>
+  				<li><a href="<%= main_characters[i+1] %>"><%= main_characters[i] %></a>&nbsp<a href="<%= main_characters[i+2] %>"><i class="fa fa-download"></i></a></li><br>
   			<% } %>
   			</ol>
   		</div>
