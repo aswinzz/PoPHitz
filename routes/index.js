@@ -26,12 +26,15 @@ exports.movie_single = function(req, res) {
 
 		var main_characters = year.main_characters;
 		
+		var lyrics = year.lyrics;
+		
 		res.render('movie_single', {
 			years : years,
 			year : year,
 			title : title,
 			year_number : year_number,
-			main_characters : main_characters
+			main_characters : main_characters,
+			lyrics : lyrics
 		});
 
 	} else {

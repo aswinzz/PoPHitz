@@ -3,6 +3,7 @@
     "title" : "Top 5 Songs Of 2013",
     "year_number" : "2013",
     "main_characters" : ["Daft Punk - Get Lucky","https://www.youtube.com/watch?v=h5EofwRzit0","https://www.ssyoutube.com/watch?v=h5EofwRzit0", "Calvin Harris - I Need Your Love ft. Ellie Goulding ","https://www.youtube.com/watch?v=AtKZKl7Bgu0","https://www.ssyoutube.com/watch?v=AtKZKl7Bgu0", "Blurred Lines- Robin Thicke","https://www.youtube.com/watch?v=yyDUC1LUXSU","https://www.ssyoutube.com/watch?v=yyDUC1LUXSU", "Lorde - Royals","https://www.youtube.com/watch?v=nlcIKh6sBtc","https://www.ssyoutube.com/watch?v=nlcIKh6sBtc", "MACKLEMORE & RYAN LEWIS - THRIFT SHOP","https://www.youtube.com/watch?v=QK8mJJJvaes","https://www.ssyoutube.com/watch?v=QK8mJJJvaes"],
+    "lyrics" : ["aswin","b","c","d","e"],
     "poster" : "2013a.jpg",
     "hero_image" : "2013.jpg"
   },
@@ -11,6 +12,7 @@
     "title" : "Top 5 Songs Of 2014",
     "year_number" : "2014",
     "main_characters" : ["Iggy Azalea - Fancy","https://www.youtube.com/watch?v=O-zpOMYRi0w","https://www.ssyoutube.com/watch?v=O-zpOMYRi0w","Jessie J, Ariana Grande, Nicki Minaj - Bang Bang","https://www.youtube.com/watch?v=0HDdjwpPM3Y","https://www.ssyoutube.com/watch?v=0HDdjwpPM3Y", "Coldplay - A Sky Full Of Stars","https://www.youtube.com/watch?v=VPRjCeoBqrI","https://www.ssyoutube.com/watch?v=VPRjCeoBqrI", "Iggy Azalea - Black Widow","https://www.youtube.com/watch?v=u3u22OYqFGo","https://www.ssyoutube.com/watch?v=u3u22OYqFGo", "The Fault In Our Stars - Charli XCX - Boom Clap","https://www.youtube.com/watch?v=AOPMlIIg_38","https://www.ssyoutube.com/watch?v=AOPMlIIg_38"],
+    "lyrics": ["a","b","c","d","e"],
     "poster" : "2014a.png",
     "hero_image" : "2014.jpg"
   },
@@ -19,6 +21,7 @@
     "title" : "Top 5 Songs Of 2015",
     "year_number" : "2015",
     "main_characters" : ["Adele - Hello","https://www.youtube.com/watch?v=YQHsXMglC9A","https://www.ssyoutube.com/watch?v=YQHsXMglC9A", "Skrillex and Diplo - Where Are Ü Now","https://www.youtube.com/watch?v=nntGTK2Fhb0","https://www.ssyoutube.com/watch?v=nntGTK2Fhb0", "Drake - Hotline Bling", "https://www.youtube.com/watch?v=uxpDa-c-4Mc","https://www.ssyoutube.com/watch?v=uxpDa-c-4Mc", "Rachel Platten - Fight Song","https://www.youtube.com/watch?v=xo1VInw-SKc","https://www.ssyoutube.com/watch?v=xo1VInw-SKc","Drake - Hotline Bling","https://www.youtube.com/watch?v=uxpDa-c-4Mc","https://www.ssyoutube.com/watch?v=uxpDa-c-4Mc"],
+    "lyrics" : ["a","b","c","d","e"],
     "poster" : "2015a.jpg",
     "hero_image" : "2015.jpg"
   },
@@ -27,6 +30,7 @@
     "title" : "Top 5 Songs Of 2016",
     "year_number" : "2016",
     "main_characters" : ["The Chainsmokers - Closer","https://www.youtube.com/watch?v=0zGcUoRlhmw","https://www.ssyoutube.com/watch?v=0zGcUoRlhmw", "Clean Bandit - Rockabye ft. Sean Paul & Anne-Marie","https://www.youtube.com/watch?v=papuvlVeZg8","https://www.ssyoutube.com/watch?v=papuvlVeZg8", "Bruno Mars - That's What I Like","https://www.youtube.com/watch?v=PMivT7MJ41M","https://www.ssyoutube.com/watch?v=PMivT7MJ41M", "Calvin Harris - This Is What You Came For ","https://www.youtube.com/watch?v=kOkQ4T5WO9E","https://www.ssyoutube.com/watch?v=kOkQ4T5WO9E", "Shawn Mendes - Treat You Better","https://www.youtube.com/watch?v=lY2yjAdbvdQ","https://www.ssyoutube.com/watch?v=lY2yjAdbvdQ"],
+    "lyrics" : ["a","b","c","d","e"],
     "poster" : "2016a.jpg",
     "hero_image" : "2016.jpg"
   },
@@ -35,6 +39,7 @@
     "title" : "Top 5 Songs Of 2017",
     "year_number" : "2017",
     "main_characters" : ["Ed Sheeran - Shape of You","https://www.youtube.com/watch?v=JGwWNGJdvx8","https://www.ssyoutube.com/watch?v=JGwWNGJdvx8", "Luis Fonsi - Despacito ft. Daddy Yankee","https://www.youtube.com/watch?v=kJQP7kiw5Fk","https://www.ssyoutube.com/watch?v=kJQP7kiw5Fk", "Kygo, Selena Gomez - It Ain't Me","https://www.youtube.com/watch?v=u3VTKvdAuIY","https://www.ssyoutube.com/watch?v=u3VTKvdAuIY", "Zedd, Alessia Cara - Stay","https://www.youtube.com/watch?v=h--P8HzYZ74","https://www.ssyoutube.com/watch?v=h--P8HzYZ74", "The Chainsmokers & Coldplay - Something Just Like This","https://www.youtube.com/watch?v=FM7MFYoylVs","https://www.ssyoutube.com/watch?v=FM7MFYoylVs"],
+    "lyrics" : ["a","b","c","d","e"],
     "poster" : "2017a.jpg",
     "hero_image" : "2017.png"
   }]
